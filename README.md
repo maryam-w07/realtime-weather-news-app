@@ -23,21 +23,17 @@ A Python Flask web app that provides real-time weather updates and related news 
 ## How to Run
 
 1. Clone the repository:
-2. 
    git clone https://github.com/maryam-w07/weather-news-app.git
    cd weather-news-app
    
-2.Install dependencies:
-
+2. Install dependencies:
    pip install -r requirements.txt
    
-3.Create a .env file and add your API keys:
-
+3. Create a .env file and add your API keys:
    X-RapidAPI-Key=your_key_here
    NEWS_API=your_news_key_here
    API_KEY_CURRENT=your_weather_key_here
    
-4.Run the app:
-
+4. Run the app:
    python app.py
    Open your browser at http://127.0.0.1:5000/ and start using the app.
