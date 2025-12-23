@@ -12,7 +12,7 @@ A Python Flask web app that provides real-time weather updates and related news 
 
 ## Tech Stack
 
-- Python 3.x
+- Python 3.10
 - Flask
 - Requests
 - JSON
