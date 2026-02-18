@@ -8,7 +8,6 @@ A Python Flask web app that provides real-time weather updates ,related news and
 - Retrieves **related news articles** using GNews API.
 - Displays an **interactive temperature map** for the selected city.
 - Web interface built with **Flask** for simple user interaction.
-- Handles API keys securely using **.env** files.
 
 ## Tech Stack
 
