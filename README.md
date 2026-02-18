@@ -1,6 +1,6 @@
 # Weather & News App
 
-A Python Flask web app that provides real-time weather updates ,related news and weather alerts for any city. Users can enter a city name to get the current weather, temperature, condition, and the latest related news highlites. The app also displays an interactive temperature map from OpenWeatherMap.
+A Python Flask web app that provides real-time weather updates ,related news and weather alerts for any city. Users can enter a city name to get the current weather, temperature, condition, and the latest related news highlightes. The app also displays an interactive temperature map from OpenWeatherMap.
 
 ## Features
 
